@@ -1,23 +1,12 @@
-# ESP32 Game Snake & Caro - TFT Display
+ESP32-2432S028
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/2e9c7067-bd68-4b0b-a847-0cf449b69b35" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/7da3506c-61db-43b8-8567-55eebdd8057f" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/59d74737-22b1-40ca-a796-4ae0e9a63d0b" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/f0f1df7e-5aaf-4095-adf2-ea155acfa7a4" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/d32c05fd-62ac-4afa-b497-8ae72676713a" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/91549c64-46c7-462b-ab73-a1e08efe1572" />
+<img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/d1f45253-d904-41c5-b8ce-b93f8e74ef2a" />
 
-Dự án trò chơi Rắn săn mồi và Cờ caro trên vi điều khiển **ESP32**, sử dụng màn hình TFT và cảm ứng **XPT2046**.
 
-## 🚀 Tính năng hiện tại
-* **Game Snake**: Di chuyển mượt mà, có hệ thống tính điểm (core).
-* **Menu Cảm ứng**: Hệ thống menu đa dạng, có thể điều chỉnh tốc độ, độ dài rắn, và màu sắc giao diện.
-* **Tài nguyên từ SD Card**: Load icon và hình ảnh trực tiếp từ thẻ nhớ để tiết kiệm bộ nhớ RAM của ESP32.
-* **Cấu trúc State Machine**: Quản lý các màn hình (Menu, Play, Settings, Game Over) bằng switch-case chuyên nghiệp.
 
-## 🛠 Linh kiện sử dụng
-* **Board**: ESP32 (Module Dev).
-* **Màn hình**: TFT 2.8 inch (chipset tương thích với thư viện TFT_eSPI).
-* **Cảm ứng**: XPT2046.
-* **Lưu trữ**: Thẻ nhớ MicroSD (chứa các file ảnh .bin).
-
-## 📚 Thư viện cần thiết
-Dự án sử dụng các thư viện sau (bạn cần cài đặt trước khi nạp code):
-* `TFT_eSPI`
-* `XPT2046_Touchscreen`
-
-## 📺 Video Demo
 Xem thêm các dự án của mình tại: [vt.tiktok.com/ZS9xWo5sb/](https://vt.tiktok.com/ZS9xWo5sb/)

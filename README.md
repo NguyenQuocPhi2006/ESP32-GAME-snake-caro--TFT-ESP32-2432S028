@@ -21,3 +21,4 @@ Dự án sử dụng các thư viện sau (bạn cần cài đặt trước khi 
 
 ## 📺 Video Demo
 Xem thêm các dự án của mình tại: [vt.tiktok.com/ZS9xWo5sb/](https://vt.tiktok.com/ZS9xWo5sb/)
+<img width="743" height="413" alt="image" src="https://github.com/user-attachments/assets/a9d46f52-996a-4ec6-a7f6-2cf9236a0617" />

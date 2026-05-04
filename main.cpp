@@ -4,7 +4,7 @@
 #include "caro.h"
 #include "home.h"
 #include "snake.h"
-
+ 
 
 TFT_eSPI tft = TFT_eSPI();
 int x, y, ve, caro;

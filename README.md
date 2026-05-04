@@ -1,4 +1,5 @@
 ESP32-2432S028
+PlatformIO
 <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/2e9c7067-bd68-4b0b-a847-0cf449b69b35" />
 <img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/7da3506c-61db-43b8-8567-55eebdd8057f" />
 <img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/59d74737-22b1-40ca-a796-4ae0e9a63d0b" />

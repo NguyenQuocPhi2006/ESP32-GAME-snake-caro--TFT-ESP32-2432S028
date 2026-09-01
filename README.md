@@ -20,7 +20,7 @@ ESP32_S3_Display 480x320 ST77922
 
 <img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/f0f1df7e-5aaf-4095-adf2-ea155acfa7a4" />
 
-## Game caro
+## Menu game caro
 
 <img width="1176" height="882" alt="image" src="https://github.com/user-attachments/assets/d32c05fd-62ac-4afa-b497-8ae72676713a" />
 
